@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @duytruong97
+- 👀 I’m interested in software/web development and UX design. 
+- 📫 How to reach me: email: duy.truong@valpo.edu 
